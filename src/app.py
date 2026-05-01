@@ -59,8 +59,8 @@ activities = {
         "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 14,
         "participants": ["ethan@mergington.edu"]
+    }
 }
-
 
 @app.get("/")
 def root():
